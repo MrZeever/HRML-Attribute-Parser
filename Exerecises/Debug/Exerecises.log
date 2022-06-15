@@ -1,3 +1,4 @@
-﻿  Exerecises.cpp
-C:\Users\zeeve\source\repos\Exerecises\Exerecises\Exerecises.cpp(77,27): warning C4018: '<': signed/unsigned mismatch
-  Exerecises.vcxproj -> C:\Users\zeeve\source\repos\Exerecises\Debug\Exerecises.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Exerecises.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  HRML_Attribute_Parser.cpp
+C:\Users\zeeve\source\repos\Exerecises\Exerecises\HRML_Attribute_Parser.cpp(77,27): warning C4018: '<': signed/unsigned mismatch
+  Exerecises.vcxproj -> C:\Users\zeeve\source\repos\Exerecises\Debug\HRML_Attribute_Parser.exe

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Exerecises.cpp">
+    <ClCompile Include="HRML_Attribute_Parser.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
